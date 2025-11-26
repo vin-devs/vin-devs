@@ -17,7 +17,7 @@
   </samp>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vin-devs&label=Profile%20views&color=0e75b6&style=flat" alt="vin-devs" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=vin-devs&label=Profile%20views&color=0e75b6&style=flat" alt="vin-devs" /> </p>
 
 <div align="center">
     <a href="https://t.me/VinTechLab" target="_blank"><img src="https://img.shields.io/badge/Telegram-1DA1F2?style=for-the-badge&logo=Telegram&logoColor=white" target="_blank"></a>
