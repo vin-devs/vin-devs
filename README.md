@@ -86,7 +86,6 @@
 <details>
   <summary><b>🔝 Top Contributed Repo</b></summary>
 
-<br/>
 ![](https://github-contributor-stats.vercel.app/api?username=vin-devs&limit=5&theme=radical&combine_all_yearly_contributions=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vin-devs&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </details>
