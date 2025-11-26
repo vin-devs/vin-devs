@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4AFF37&width=435&lines=Vincent+Here😎+a+Fullstack+developer.+)](https://git.io/typing-svg)
 
-<h3>💻 Frontend & Backend Developer (Learning Full-Stack) | Android Enthusiast | From Kenya</h3> 
+<h3>💻 Frontend & Backend Developer (Learning Full-Stack) | Android Enthusiast</h3> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vin-devs&label=Profile%20views&color=0e75b6&style=flat" alt="vin-devs" /> </p>
 
@@ -34,6 +34,7 @@
 </p>
 
 # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=vin-devs&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=vin-devs&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vin-devs&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
