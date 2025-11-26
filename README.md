@@ -9,7 +9,7 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a>
+    <a href="https://www.google.com/search?q=Vin+Tech">「 Google Me 」</a>
     <br>
     「 I am a full stack web application developer from <b>Kenya</b> 」
     <br>
@@ -23,7 +23,7 @@
  # About me
  
 <p>
- <img align="right" width="350" src="gif.gif" alt="Coding gif" />
+ <img align="right" width="350" src="programmer.gif" alt="Coding gif" />
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
