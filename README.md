@@ -80,14 +80,13 @@
 
   <br />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vin-devs&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vin-devs&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vin-devs&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </details>
 
 <details>
   <summary><b>🔝 Top Contributed Repo</b></summary>
 
 ![](https://github-contributor-stats.vercel.app/api?username=vin-devs&limit=5&theme=radical&combine_all_yearly_contributions=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vin-devs&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </details>
  
 
