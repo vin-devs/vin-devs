@@ -2,7 +2,7 @@
 
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://vintechlab.com">Vincent Mutuku</a></b>
+                <b><a target="_blank" href="https://radiant-biscochitos-7b605c.netlify.app/">Vincent Mutuku</a></b>
         </samp>
 </h3>
 
