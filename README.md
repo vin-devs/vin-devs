@@ -57,19 +57,13 @@
 
 <br/>
 
-<h3 align="left">Trophy:</h3>
+<!--- G I T H U B   T R O P H Y --->
+
+<h2 align="center">Github Trophy and Contribution Graph</h2>
 
 <p align="center">
-<img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
-  
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=vin-devs&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Reviews">
- </div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=vin-devs&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers">
- </div>
- <br><br>
+  <a href="https://github.com/Rachit-Pal/Github-Profile-Trophy"><img src="https://github-profile-trophy.vercel.app/?username=vin-devs&theme=darkhub&no-frame=true" alt="VinTechLab"/></a>
+</p>
 
 
 # 📊 GitHub Stats:
