@@ -84,17 +84,14 @@
 </details>
 
 <details>
-  <summary><b>☄️ Github Streaks</b></summary>
+  <summary><b>🔝 Top Contributed Repo</b></summary>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vin-devs&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-  <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vin-devs&hide_border=true" />
-</details>
 
 <details>
  
-![](https://github-readme-stats.vercel.app/api?username=vin-devs&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vin-devs&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
+
+
 ![](https://github-contributor-stats.vercel.app/api?username=vin-devs&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
