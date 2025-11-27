@@ -66,11 +66,9 @@
 
 <!--- G I T H U B   T R O P H Y --->
 
-<h2 align="center">Github Trophy and Contribution Graph</h2>
+## 🏆GitHub Trophies
+![](https://github-trophies.vercel.app/?username=vin-devs&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<p align="center">
-  <a href="https://github.com/Rachit-Pal/Github-Profile-Trophy"><img src="https://github-profile-trophy.vercel.app/?username=vin-devs&theme=darkhub&no-frame=true" alt="VinTechLab"/></a>
-</p>
 
 
 # 📊 GitHub Stats:
